@@ -1,10 +1,3 @@
-#f5 をしたときに出てくるPython Debugのターミナルにpipやpyinstallerなどをぶち込む
-# pyinstaller --add-data "./images;images", "./icon.ico"  key.py --onefile --noconsole
-
-#エラーの場合
-#windowsのターミナルで
-# pyinstaller icon.spec
-
 from pynput.mouse import Listener, Button
 import threading
 import time
