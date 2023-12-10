@@ -3,4 +3,6 @@ Pythonをインストールしていない場合は、Pythonをインストー�
 
 [ここ](https://github.com/PrintMender/Key-Stroke/releases/tag/Python)からキーストロークアプリをダウンロードします。
 
-ダウンロードできたら、中にあるsetup.ps1を***Power Shellで実行してください***
+ダウンロードできたら、中にあるsetup.ps1を右クリックメニューの***Power Shellで実行***を押してください
+
+そして、
